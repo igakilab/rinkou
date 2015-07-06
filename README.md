@@ -1,3 +1,2 @@
 # rinkou
-テスト
 Hellow
